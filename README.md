@@ -1,5 +1,5 @@
- - 🔭 Student in Computer Sciences in Imagine Master at Montpellier University
- - ✨ Interested in Video Games and 3D Programing
+ - 🔭 Unity & VR developer at VirtualisVR.
+ - ✨ Interested in VR, Video Games and 3D Programing.
 
 <!--
 **Flare00/Flare00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
